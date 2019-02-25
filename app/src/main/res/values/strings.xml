@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Taquin</string>
+    <string name="title_game">Le Jeu du Taquin</string>
+    <string name="setting_1"> 3x3 </string>
+    <string name="setting_2"> 4x4 </string>
+    <string name="setting_3"> 5x5 </string>
+    <string name="play">Jouer</string>
+    <string name="add_button">Ajouter une image</string>
+    <string name="no_image_chose">Choisissez une image </string>
+    <string name="score">Score \:</string>
+    <string name="end_game">Partie Terminée</string>
+    <string name="menu_score">Score</string>
+    <string name="menu_about_us">About Us</string>
+
+</resources>
